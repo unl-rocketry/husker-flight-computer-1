@@ -1,0 +1,10 @@
+# Auto-detect text files and normalize them to LF
+* text=auto eol=lf
+
+# Explicitly enforce LF on all KiCad text-based files
+*.kicad_sch text eol=lf
+*.kicad_pcb text eol=lf
+*.kicad_pro text eol=lf
+*.kicad_sym text eol=lf
+*.kicad_mod text eol=lf
+*.kicad_prl text eol=lf
