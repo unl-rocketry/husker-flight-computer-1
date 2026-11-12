@@ -22,6 +22,7 @@ fp-info-cache
 
 # Cache files
 fp-info-cache
+.history
 
 # Netlist and Auto-routing files (this assumese aren't versioning them)
 *.net
