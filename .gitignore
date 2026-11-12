@@ -20,8 +20,9 @@ fp-info-cache
 # Auto-generated lock files
 *.lck
 
-# Cache files
+# Cache and backup files
 fp-info-cache
+.history
 
 # Netlist and Auto-routing files (this assumese aren't versioning them)
 *.net
