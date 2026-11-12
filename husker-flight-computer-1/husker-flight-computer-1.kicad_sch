@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "6d49186a-a165-47be-a43f-cceaaa6ea934")
 	(paper "A4")
 	(title_block
@@ -24,11 +24,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "1c7a3228-2228-472d-8545-a3d972770b6b")
 		(property "Sheetname" "Temperature Sensor"
 			(at 64.77 91.9984 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38,6 +40,8 @@
 		)
 		(property "Sheetfile" "temperature.kicad_sch"
 			(at 64.77 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66,11 +70,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "2b571d87-7012-4006-b9e5-f67362e7b4a1")
 		(property "Sheetname" "Pyro"
 			(at 151.13 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -80,6 +86,8 @@
 		)
 		(property "Sheetfile" "pyro.kicad_sch"
 			(at 151.13 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -108,11 +116,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "3e303351-2810-4744-8d3c-f251aa8458ae")
 		(property "Sheetname" "Radio Communications"
 			(at 194.31 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -122,6 +132,8 @@
 		)
 		(property "Sheetfile" "radio-comms.kicad_sch"
 			(at 194.31 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -150,11 +162,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "48b62e6c-85d3-4d54-9952-6044010305ef")
 		(property "Sheetname" "GPS"
 			(at 194.31 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -164,6 +178,8 @@
 		)
 		(property "Sheetfile" "gps.kicad_sch"
 			(at 194.31 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -192,11 +208,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "5ba2c177-511d-405f-b530-45335caa1119")
 		(property "Sheetname" "Power Management"
 			(at 107.95 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -206,6 +224,8 @@
 		)
 		(property "Sheetfile" "power-management.kicad_sch"
 			(at 107.95 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -234,11 +254,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "7bdaba0e-5587-42f8-bd7a-0aa27b615b1f")
 		(property "Sheetname" "Altimeter"
 			(at 64.77 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -248,6 +270,8 @@
 		)
 		(property "Sheetfile" "altimeter.kicad_sch"
 			(at 64.77 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -276,11 +300,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "b800b26e-57ac-4b6d-b6c0-5db45e62c847")
 		(property "Sheetname" "Microcontroller"
 			(at 107.95 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -290,6 +316,8 @@
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
 			(at 107.95 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -318,11 +346,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "d788694f-1e83-4b6d-851a-b2bef5afec95")
 		(property "Sheetname" "Accelerometer"
 			(at 64.77 122.4784 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -332,6 +362,8 @@
 		)
 		(property "Sheetfile" "accelerometer.kicad_sch"
 			(at 64.77 147.9046 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -360,11 +392,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "f4e3031b-3dfe-466e-b6c7-e8a51a7c3121")
 		(property "Sheetname" "External Memory"
 			(at 194.31 91.9984 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -374,6 +408,8 @@
 		)
 		(property "Sheetfile" "memory.kicad_sch"
 			(at 194.31 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -402,11 +438,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "fa8cd421-cfc9-4e23-8573-c52eedb10bf9")
 		(property "Sheetname" "Humidity Sensor"
 			(at 107.95 122.4784 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -416,6 +454,8 @@
 		)
 		(property "Sheetfile" "humidity.kicad_sch"
 			(at 107.95 147.9046 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
