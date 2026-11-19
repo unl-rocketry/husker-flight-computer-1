@@ -3650,6 +3650,12 @@
 		)
 	)
 	(junction
+		(at 90.17 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00875a86-6766-40a8-840d-24b84e9f6b18")
+	)
+	(junction
 		(at 233.68 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3690,6 +3696,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17ce3d7f-d3f9-417c-a731-0fde937ceadd")
+	)
+	(junction
+		(at 204.47 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18261e87-c9c5-455c-a23f-7fe0564f2b42")
 	)
 	(junction
 		(at 48.26 142.24)
@@ -3818,6 +3830,12 @@
 		(uuid "afcab402-0ef5-4c74-8328-9fbd2a78c956")
 	)
 	(junction
+		(at 204.47 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c32e724d-b191-4d7c-a734-d7545627fa8c")
+	)
+	(junction
 		(at 40.64 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3903,16 +3921,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 176.53) (xy 90.17 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07b1eabc-4ebf-4ad2-827f-48e95cf7001d")
-	)
-	(wire
-		(pts
 			(xy 195.58 41.91) (xy 210.82 41.91)
 		)
 		(stroke
@@ -3970,16 +3978,6 @@
 			(type default)
 		)
 		(uuid "13637c69-cc9e-4717-b5fc-a02abea02990")
-	)
-	(wire
-		(pts
-			(xy 106.68 176.53) (xy 106.68 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14650e9f-fa4a-4bbd-bbb2-f6d402836095")
 	)
 	(wire
 		(pts
@@ -4063,13 +4061,23 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 86.36) (xy 250.19 86.36)
+			(xy 193.04 86.36) (xy 204.47 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "205ec2d8-53ec-4e88-8708-90fd372abb63")
+	)
+	(wire
+		(pts
+			(xy 85.09 173.99) (xy 85.09 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21369015-8bad-4c3b-91e7-f61de2ed33e4")
 	)
 	(wire
 		(pts
@@ -4123,6 +4131,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 64.77) (xy 204.47 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "363141c2-f4c6-440a-b6d9-07af64000170")
+	)
+	(wire
+		(pts
 			(xy 269.24 58.42) (xy 269.24 41.91)
 		)
 		(stroke
@@ -4150,6 +4168,16 @@
 			(type default)
 		)
 		(uuid "40823a2a-2379-495e-a966-b85fae1ba3be")
+	)
+	(wire
+		(pts
+			(xy 85.09 163.83) (xy 93.98 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41c63a53-02be-4877-a273-9382d4d7f592")
 	)
 	(wire
 		(pts
@@ -4220,6 +4248,16 @@
 			(type default)
 		)
 		(uuid "512b9cf2-6a1a-4af7-8ebb-e955ad0db2c8")
+	)
+	(wire
+		(pts
+			(xy 90.17 172.72) (xy 90.17 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51f8913f-bb3c-4df4-b447-5dada27141fd")
 	)
 	(wire
 		(pts
@@ -4330,6 +4368,16 @@
 			(type default)
 		)
 		(uuid "67909149-7b2c-4cee-84c6-d82ca0f547d1")
+	)
+	(wire
+		(pts
+			(xy 90.17 163.83) (xy 90.17 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67e6aa2a-c744-4222-ac84-7f9d3c2033fc")
 	)
 	(wire
 		(pts
@@ -4473,6 +4521,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 182.88) (xy 85.09 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88638706-2a3a-4805-9a62-72e4459eb355")
+	)
+	(wire
+		(pts
 			(xy 44.45 181.61) (xy 49.53 181.61)
 		)
 		(stroke
@@ -4573,6 +4631,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 86.36) (xy 250.19 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1e2dd26-c8d4-4942-9c3e-fea03fe7078e")
+	)
+	(wire
+		(pts
 			(xy 140.97 41.91) (xy 140.97 64.77)
 		)
 		(stroke
@@ -4580,6 +4648,26 @@
 			(type default)
 		)
 		(uuid "a4c16b29-8a09-4b93-b6fa-3756092615cf")
+	)
+	(wire
+		(pts
+			(xy 204.47 74.93) (xy 233.68 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7f32201-ae10-4eeb-86b3-e7ea29dced59")
+	)
+	(wire
+		(pts
+			(xy 204.47 74.93) (xy 204.47 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a94bde8a-5b13-48eb-8ff1-728311e5f54a")
 	)
 	(wire
 		(pts
@@ -4630,26 +4718,6 @@
 			(type default)
 		)
 		(uuid "afa327c6-cee0-48a8-8ac7-46f6fec00ee5")
-	)
-	(wire
-		(pts
-			(xy 204.47 74.93) (xy 233.68 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0a03e17-4b03-4abf-809b-44d5a62b4598")
-	)
-	(wire
-		(pts
-			(xy 90.17 173.99) (xy 85.09 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b67b34aa-be3d-4f9f-8358-80322357121c")
 	)
 	(wire
 		(pts
@@ -4753,16 +4821,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 176.53) (xy 91.44 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bdcbc498-d27d-40c7-ace5-951af1b35308")
-	)
-	(wire
-		(pts
 			(xy 118.11 41.91) (xy 118.11 49.53)
 		)
 		(stroke
@@ -4790,16 +4848,6 @@
 			(type default)
 		)
 		(uuid "c1717d02-2021-4f0f-bc01-99f560ed09b0")
-	)
-	(wire
-		(pts
-			(xy 204.47 64.77) (xy 204.47 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1a838e2-cfbb-41e8-971f-155d01db09be")
 	)
 	(wire
 		(pts
@@ -4873,13 +4921,13 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 176.53) (xy 106.68 176.53)
+			(xy 204.47 83.82) (xy 204.47 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cf683b7c-0b0f-49d4-8aae-e93b67b3f4c6")
+		(uuid "cdcb5a4a-2773-41d4-9d1b-c928b8b7771b")
 	)
 	(wire
 		(pts
@@ -5270,6 +5318,99 @@
 			(project "husker-flight-computer-1"
 				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 204.47 80.01 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "039ecd15-2165-459d-aea6-553e290f2329")
+		(property "Reference" "POW_StatLED1"
+			(at 220.98 79.756 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 210.058 79.248 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+			(at 204.47 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 204.47 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 204.47 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "100d0011-7e07-438d-99ee-6494952efdd1")
+		)
+		(pin "1"
+			(uuid "7e2e7ae2-5168-410e-9210-dfe34b45ce53")
+		)
+		(instances
+			(project "husker-flight-computer-1"
+				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
+					(reference "POW_StatLED1")
 					(unit 1)
 				)
 			)
@@ -6414,84 +6555,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 106.68 185.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6985b26f-0df8-4bea-994b-7df5fc309924")
-		(property "Reference" "#PWR015"
-			(at 106.68 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 106.68 190.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 106.68 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "875b8a81-269d-4a65-a00d-525d5a6b3bd2")
-		)
-		(instances
-			(project "husker-flight-computer-1"
-				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 233.68 55.88 0)
 		(unit 1)
@@ -6514,7 +6577,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kOhm"
+		(property "Value" "5.1kOhm"
 			(at 236.22 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6575,7 +6638,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 85.09 163.83 270)
+		(at 93.98 163.83 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6586,7 +6649,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c4151ae-0977-49e0-a649-6644b0c6b81c")
 		(property "Reference" "#PWR013"
-			(at 81.28 163.83 0)
+			(at 90.17 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6597,7 +6660,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 88.9 163.8299 90)
+			(at 97.79 163.8299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6608,7 +6671,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 163.83 0)
+			(at 93.98 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6619,7 +6682,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 163.83 0)
+			(at 93.98 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6630,7 +6693,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 85.09 163.83 0)
+			(at 93.98 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6921,7 +6984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92fad96a-aaba-4292-bcce-95cab1bc7521")
-		(property "Reference" "POW_Cin"
+		(property "Reference" "POW_Cin1"
 			(at 121.92 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6985,7 +7048,7 @@
 		(instances
 			(project "husker-flight-computer-1"
 				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
-					(reference "POW_Cin")
+					(reference "POW_Cin1")
 					(unit 1)
 				)
 			)
@@ -7081,7 +7144,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bff55fd-fda1-4fd3-a101-9a3d3f5cf6db")
-		(property "Reference" "POW_Cin"
+		(property "Reference" "POW_Cin2"
 			(at 133.35 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7145,7 +7208,7 @@
 		(instances
 			(project "husker-flight-computer-1"
 				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
-					(reference "POW_Cin")
+					(reference "POW_Cin2")
 					(unit 1)
 				)
 			)
@@ -7245,7 +7308,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3d4bb4d-710c-49c5-bd45-abacfbbb1b6d")
-		(property "Reference" "POW_Rfbb"
+		(property "Reference" "POW_Rfbb2"
 			(at 218.44 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7309,7 +7372,7 @@
 		(instances
 			(project "husker-flight-computer-1"
 				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
-					(reference "POW_Rfbb")
+					(reference "POW_Rfbb2")
 					(unit 1)
 				)
 			)
@@ -7611,7 +7674,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adbd385e-ff87-42f7-8331-b51ecb2fdfc2")
-		(property "Reference" "POW_Rfbt"
+		(property "Reference" "POW_Rfbt2"
 			(at 218.44 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7675,7 +7738,7 @@
 		(instances
 			(project "husker-flight-computer-1"
 				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
-					(reference "POW_Rfbt")
+					(reference "POW_Rfbt2")
 					(unit 1)
 				)
 			)
@@ -7683,8 +7746,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 106.68 181.61 90)
-		(mirror x)
+		(at 90.17 168.91 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7693,8 +7755,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b6b2e9f9-2e9d-4ef4-9cb5-58a60b28c38e")
-		(property "Reference" "POW_LED"
-			(at 104.14 181.864 90)
+		(property "Reference" "POW_StatLED2"
+			(at 106.426 168.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7705,7 +7767,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 102.87 180.0225 0)
+			(at 86.36 170.4975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7716,7 +7778,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
-			(at 106.68 181.61 0)
+			(at 90.17 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7727,7 +7789,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 181.61 0)
+			(at 90.17 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7738,7 +7800,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 106.68 181.61 0)
+			(at 90.17 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7749,7 +7811,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 106.68 181.61 0)
+			(at 90.17 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7768,7 +7830,7 @@
 		(instances
 			(project "husker-flight-computer-1"
 				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
-					(reference "POW_LED")
+					(reference "POW_StatLED2")
 					(unit 1)
 				)
 			)
@@ -7936,7 +7998,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 95.25 176.53 90)
+		(at 90.17 179.07 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7947,27 +8009,29 @@
 		(fields_autoplaced yes)
 		(uuid "c2d07804-a334-4ad7-85f7-64451d4f65dc")
 		(property "Reference" "POW__R5"
-			(at 95.25 170.18 90)
+			(at 92.71 177.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "10kOhm"
-			(at 95.25 172.72 90)
+		(property "Value" "3.3kOhm"
+			(at 92.71 180.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 178.308 90)
+			(at 91.948 179.07 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7978,7 +8042,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 176.53 0)
+			(at 90.17 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7989,7 +8053,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 95.25 176.53 0)
+			(at 90.17 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8761,7 +8825,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f59910ea-3286-41d5-93ce-b63d3462699d")
 		(property "Reference" "#PWR01"
 			(at 210.82 72.39 0)
@@ -8775,7 +8838,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 210.82 71.12 0)
+			(at 214.884 67.818 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8841,7 +8904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa2ee665-83ca-40b2-8671-6b8c7543d544")
-		(property "Reference" "POW_Rfbt"
+		(property "Reference" "POW_Rfbt1"
 			(at 213.36 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8905,7 +8968,7 @@
 		(instances
 			(project "husker-flight-computer-1"
 				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
-					(reference "POW_Rfbt")
+					(reference "POW_Rfbt1")
 					(unit 1)
 				)
 			)
@@ -8923,7 +8986,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdb19179-c854-4ecc-82fa-2d3af5a38a88")
-		(property "Reference" "POW_Rfbb"
+		(property "Reference" "POW_Rfbb1"
 			(at 213.36 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8987,7 +9050,7 @@
 		(instances
 			(project "husker-flight-computer-1"
 				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934/5ba2c177-511d-405f-b530-45335caa1119"
-					(reference "POW_Rfbb")
+					(reference "POW_Rfbb1")
 					(unit 1)
 				)
 			)
