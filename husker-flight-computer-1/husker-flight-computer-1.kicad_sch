@@ -279,6 +279,46 @@
 				(justify left top)
 			)
 		)
+		(pin "BMP_INT" output
+			(at 101.6 66.04 0)
+			(uuid "c474d109-e32c-4b80-a6d8-957393d8c284")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BMP_SCL" input
+			(at 101.6 69.85 0)
+			(uuid "835837de-0b48-4e18-b269-5fac4e5c8fda")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BMP_SDA" bidirectional
+			(at 101.6 72.39 0)
+			(uuid "fc57c1dc-c0eb-484c-a4e3-b164097e8fdd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BMP_INTERRUPT" output
+			(at 101.6 77.47 0)
+			(uuid "33fb70de-7034-4014-8125-27b5a13fc11f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "husker-flight-computer-1"
 				(path "/6d49186a-a165-47be-a43f-cceaaa6ea934"

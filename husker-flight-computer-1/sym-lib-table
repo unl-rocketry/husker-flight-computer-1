@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "flight_computer_symbols") (type "KiCad") (uri "/home/g2/Documents/projects/Aerospace Club/Rocketry/husker-flight-computer-1/kicad_libraries/flight_computer_symbols.kicad_sym") (options "") (descr ""))
+)
